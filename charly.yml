@@ -8,7 +8,7 @@ oracle:
             entrypoint are deterministically verifiable in the built image with no
             network access or API credentials.
         require:
-            - '@github.com/opencharly/layer-nodejs:v2026.239.1624'
+            - '@github.com/opencharly/layer-nodejs:v2026.272.0322'
         plan:
             - check: the oracle executable is installed at ${HOME}/.npm-global/bin/oracle
               file:
