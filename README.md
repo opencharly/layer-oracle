@@ -51,5 +51,4 @@ charly shell my-box -c "oracle --version"
 - Owning skill: `/charly-coder:oracle` — prompt bundling and multi-engine AI
   queries.
 - Runtime dependency: `/charly-coder:nodejs`.
-- Composed by: `/charly-openclaw:openclaw-full`.
 - [`opencharly/opencharly](https://github.com/opencharly/opencharly) — the umbrella.
